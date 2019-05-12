@@ -13,7 +13,7 @@ const converCsv = () => {
 
     let fileNameColumn = null
     let remainingColumns = null
-    const fileMap = {}
+    const fileMap = new Map()
     let filesConverted = 0
 
     const readStream = fs.createReadStream(args.file);
