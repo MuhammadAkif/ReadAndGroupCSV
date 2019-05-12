@@ -1,0 +1,15 @@
+{
+  "name": "assignment-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Akif <muhammad.akif786@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.88.0",
+    "yargs": "13.2.2"
+  }
+}
