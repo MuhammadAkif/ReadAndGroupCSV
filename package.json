@@ -9,7 +9,7 @@
   "author": "Muhammad Akif <muhammad.akif786@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "request": "2.88.0",
+    "fast-csv": "2.5.0",
     "yargs": "13.2.2"
   }
 }
