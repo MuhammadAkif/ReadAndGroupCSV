@@ -1,6 +1,6 @@
 # ReadAndGroupCSV
 
-#Instructions to run
+# Description
 
 NodeJS script that takes as an input a path to a CSV file containing an arbitrary set of data, and outputs the same data in multiple CSV files, where values got grouped by the value of the column A. Each file should be named after the value of the column A. Output CSV files should not contain the value of column A inside.
 
